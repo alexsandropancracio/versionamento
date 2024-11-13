@@ -10,3 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Arquivo changelog markdown adicionado para atualização do projeto.
+- Outros arquivos adicionados e restaurados.
